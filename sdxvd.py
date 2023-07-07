@@ -24,3 +24,5 @@ class agenda():
             if nombres==nombre_user:
                 resultado=contacto
         print(resultado)
+
+print("Arreglo Arreglado")
